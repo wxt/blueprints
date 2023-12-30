@@ -10,7 +10,7 @@ blueprint:
       selector:
         device:
           manufacturer: eWeLink
-          model: WB01
+          model: SNZB-01P
     press_action:
       name: Press Action
       description: Action to perform on Press.
